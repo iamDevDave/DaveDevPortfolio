@@ -9,7 +9,7 @@ const items = [
     id: 1,
     color: "from-red-300 to-blue-300",
     title: "Skill Sync[Full-Stack]",
-    desc: "Onile Course Based learning site using react.js as front-end with tailwind css, Redux & Axios, back-end written on javascript node.js",
+    desc: "Online Course Based learning site using react.js as front-end with tailwind css, Redux & Axios, back-end written on javascript node.js",
     img: "/sk-min.jpg",
     link: "https://skill-sync-alfa.vercel.app/",
   },
