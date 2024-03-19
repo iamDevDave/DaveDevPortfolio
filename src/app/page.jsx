@@ -6,6 +6,7 @@ import Link from "next/link";
 
 const Homepage = () => {
   return (
+    
     <motion.div
       className="h-full"
       initial={{ y: "-200vh" }}
